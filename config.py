@@ -1,11 +1,11 @@
 import os
 import ProxyCloud
 # Bot
-BOT_TOKEN = '5444581119:AAFTxQF9x0RXHsMA58rXCpCrAYQIrTEDl3A'
+BOT_TOKEN = '5720354270:AAG2gBtnQVMPyMZJENVcYZGCtoMa3tEJX-M'
 TG_API_ID = 13233271
 TG_API_HASH = 'e3ce8145aa657c2a4cc5cf0f7183e476'
 TG_ADMIN  =  'Ghosthell0210'
-TG_USER = 'EL_Wizard'
+TG_USER = 'Elnietodecacha'
 TG_USER1 = 'Stvz02'
 TG_USER2 = 'valdes_95'  
 TG_USER3 = 'gyi'
