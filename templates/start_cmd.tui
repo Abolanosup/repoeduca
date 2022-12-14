@@ -1,0 +1,14 @@
+## tui es un mini lenguaje de interface de texto para telegram
+
+@section __base
+@define html
+
+HOLA @@>>username 👋 Bienvenido
+
+Envié un enlace (Links) o reenvié archivos para subir a la nube 
+@endsection
+
+@markup
+@button text='Stvz20' url='https://t.me/Stvz20'
+@button text='Unirse al Canal' url='https://t.me/UploadFastBoTFree'
+@endmarkup
